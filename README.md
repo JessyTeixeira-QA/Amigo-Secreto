@@ -1,48 +1,48 @@
-# 🎁 Amigo Secreto
+# 🎁 Secret Santa
 
-![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Project Status](https://img.shields.io/badge/Status-Concluded-brightgreen)
 
-## 📝 Descrição do Projeto
+## 📝 Project Description
 
-Este projeto implementa a lógica de um sorteio de **Amigo Secreto** (ou Amigo Oculto) utilizando JavaScript. A aplicação permite que o usuário insira uma lista de nomes e, em seguida, realiza o sorteio de forma justa, garantindo que ninguém tire a si mesmo.
+This project implements the logic of a **Secret Santa** draw using JavaScript. The application allows the user to enter a list of names and then performs a fair draw, ensuring that no one draws themselves.
 
-É uma ferramenta simples e prática para organizar a brincadeira de troca de presentes em grupos de amigos, família ou colegas de trabalho.
+It is a simple and practical tool to organize the gift exchange game among groups of friends, family, or coworkers.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-*   **Adicionar Participantes:** Campo para inserir os nomes dos participantes.
-*   **Sorteio:** Algoritmo de sorteio que garante que cada pessoa tire um amigo diferente.
-*   **Exibição do Resultado:** Mostra o resultado do sorteio de forma clara.
-*   **Reiniciar:** Opção para limpar a lista e começar um novo sorteio.
+*   **Add Participants:** Field to enter participants' names.
+*   **Draw:** Drawing algorithm that ensures each person draws a different friend.
+*   **Display Result:** Clearly shows the draw results.
+*   **Reset:** Option to clear the list and start a new draw.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-O projeto foi construído utilizando as seguintes tecnologias:
+The project was built using the following technologies:
 
-| Tecnologia | Descrição |
+| Technology | Description |
 | :--- | :--- |
-| **HTML5** | Estrutura da interface para entrada de nomes e exibição do resultado. |
-| **CSS3** | Estilização para uma experiência de usuário agradável. |
-| **JavaScript (ES6+)** | Lógica principal do sorteio e manipulação da lista de participantes. |
+| **HTML5** | Interface structure for name input and result display. |
+| **CSS3** | Styling for a pleasant user experience. |
+| **JavaScript (ES6+)** | Core draw logic and participant list management. |
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
-Para utilizar a aplicação, siga os passos abaixo:
+To use the application, follow these steps:
 
-1.  **Clone o repositório:**
+1.  **Clone the repository:**
     ```bash
     git clone https://github.com/JessyTeixeira-QA/Amigo-Secreto.git
     ```
-2.  **Navegue até o diretório do projeto:**
+2.  **Navigate to the project directory:**
     ```bash
     cd Amigo-Secreto/amigo-secreto
     ```
-3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
+3.  **Open the `index.html` file** in your preferred browser.
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Author
 
-Desenvolvido por Jessy Teixeira.
+Developed by Jessy Teixeira.
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. (Assumindo que a licença MIT será adicionada ou já existe, caso contrário, esta linha pode ser ajustada).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. (Assuming the MIT license will be added or already exists; otherwise, this line can be adjusted).
